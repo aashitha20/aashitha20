@@ -1,5 +1,5 @@
 # About Me:
-I'm a Computer Science Engineering Student <br>I love to build new things and solve challenges 
+I'm a Computer Science Engineering Student :) <br>I love to build new things and solve challenges!
 
 
 ## 🌐 Socials:
@@ -17,4 +17,3 @@ I'm a Computer Science Engineering Student <br>I love to build new things and so
 ---
 [![](https://visitcount.itsvg.in/api?id=aashitha20&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
