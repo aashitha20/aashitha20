@@ -3,7 +3,7 @@
 <p align="center">I'm a Computer Science Engineering Student :)</p>
 <p align="center">I love to build new things and solve challenges!</p>
 <p align="center">
-  <a href="[https://yourportfolio.com](https://aashitha20.github.io/aashithaprabhub.github.io/)" target="_blank">
+  <a href="[https://aashitha20.github.io/aashithaprabhub.github.io/](https://aashitha20.github.io/aashithaprabhub.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/▲-Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/aashithaprabhub/" target="_blank">
@@ -21,14 +21,7 @@
   </a>
 </p>
 
-# About Me:
-I'm a Computer Science Engineering Student :) <br>I love to build new things and solve challenges!
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shesbusy__) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashitha.prabhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aashithaprabhub/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhuaashitha@gmail.com) 
-
-## Tech Stack/ Languages:
+### Tech Stack/ Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,11 +32,11 @@ I'm a Computer Science Engineering Student :) <br>I love to build new things and
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-## Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-## Design/ Visual Tools
+### Design/ Visual Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
