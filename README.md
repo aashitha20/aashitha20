@@ -3,8 +3,22 @@
 <p align="center">I'm a Computer Science Engineering Student :)</p>
 <p align="center">I love to build new things and solve challenges!</p>
 <p align="center">
-<a href="[https://itsvg.in](https://aashitha20.github.io/aashithaprabhub.github.io/)" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/aashithaprabhub/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href="[https://yourportfolio.com](https://aashitha20.github.io/aashithaprabhub.github.io/)" target="_blank">
+    <img src="https://img.shields.io/badge/▲-Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aashithaprabhub/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/aashitha.prabhu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/shesbusy__" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:prabhuaashitha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
+  </a>
 </p>
 
 # About Me:
@@ -38,13 +52,15 @@ I'm a Computer Science Engineering Student :) <br>I love to build new things and
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+---
+
 ``` java
 if (codeWorking){
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
         }
-// - Vishwa Gaurav
+// - Aashitha
 ```
 
 # 📊 GitHub Stats:
