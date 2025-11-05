@@ -8,10 +8,12 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,7 +24,7 @@ jobs:
           github_user_name: aashitha20
           outputs: dist/snake.svg
 
-      - name: Upload Snake animation
+      - name: Push Snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
