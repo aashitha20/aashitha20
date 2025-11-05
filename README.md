@@ -3,9 +3,9 @@
 <p align="center">I'm a Computer Science Engineering Student :)</p>
 <p align="center">I love to build new things and solve challenges!</p>
 <p align="center">
-  <a href=[https://aashitha20.github.io/aashithaprabhub.github.io/](https://aashitha20.github.io/aashithaprabhub.github.io/) target="[_blank](https://aashitha20.github.io/aashithaprabhub.github.io/)">
-    <img src="https://img.shields.io/badge/▲-Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="https://aashitha20.github.io/aashithaprabhub.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/▲-Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
   <a href="https://www.linkedin.com/in/aashithaprabhub/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
