@@ -62,8 +62,17 @@ if (codeWorking){
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-### Watch my contribution graph get eaten by a snake!
 
 ![Snake animation](https://github.com/aashitha20/aashitha20/blob/output/snake.svg)
 ![GitHub Snake Light](https://github.com/aashitha20/aashitha20/blob/output/snake-light.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/aashitha20/aashitha20/blob/output/snake-dark.svg#gh-dark-mode-only)
+
+
+### 🐍 Watch my contribution graph get eaten by a snake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aashitha20/aashitha20/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aashitha20/aashitha20/blob/output/snake-light.svg" />
+  <img alt="github-snake" src="https://github.com/aashitha20/aashitha20/blob/output/snake.svg" />
+</picture>
+
