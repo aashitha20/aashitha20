@@ -65,7 +65,5 @@ if (codeWorking){
 ### Watch my contribution graph get eaten by a snake!
 
 ![Snake animation](https://github.com/aashitha20/aashitha20/blob/output/snake.svg)
-![GitHub Snake dark](https://github.com/aashitha20/aashitha20/blob/output/snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/aashitha20/aashitha20/blob/output/snake-light.svg#gh-light-mode-only)
-
-
+![GitHub Snake Light](https://github.com/aashitha20/aashitha20/blob/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/aashitha20/aashitha20/blob/output/snake-dark.svg#gh-dark-mode-only)
