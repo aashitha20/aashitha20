@@ -68,5 +68,4 @@ if (codeWorking){
 ![GitHub Snake dark](https://github.com/aashitha20/aashitha20/blob/output/snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake light](https://github.com/aashitha20/aashitha20/blob/output/snake-light.svg#gh-light-mode-only)
 
-![Snake animation](https://github.com/aashitha20/aashitha20/blob/output/snake.svg)
 
