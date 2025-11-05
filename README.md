@@ -68,3 +68,6 @@ if (codeWorking){
 </p>
 
 ---
+### Watch my contribution graph get eaten by a snake!
+
+![Snake animation](https://github.com/aashitha20/aashitha20/blob/output/snake.svg)
