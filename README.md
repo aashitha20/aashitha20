@@ -56,16 +56,10 @@ if (codeWorking){
 ```
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aashitha20&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aashitha20&theme=bear&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashitha20&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-<p align="center">
-<img src="https://github.com/aashitha20/aashitha20-.git">
-</p>
 
 ---
 ### Watch my contribution graph get eaten by a snake!
@@ -73,4 +67,6 @@ if (codeWorking){
 ![Snake animation](https://github.com/aashitha20/aashitha20/blob/output/snake.svg)
 ![GitHub Snake dark](https://github.com/aashitha20/aashitha20/blob/output/snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake light](https://github.com/aashitha20/aashitha20/blob/output/snake-light.svg#gh-light-mode-only)
+
+![Snake animation](https://github.com/aashitha20/aashitha20/blob/output/snake.svg)
 
