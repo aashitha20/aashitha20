@@ -54,18 +54,7 @@ if (codeWorking){
         }
 // - Aashitha
 ```
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=aashitha20&theme=bear&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashitha20&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aashitha20/aashitha20/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aashitha20/aashitha20/blob/output/snake-light.svg" />
-  <img alt="github-snake" src="https://github.com/aashitha20/aashitha20/blob/output/snake.svg" />
-</picture>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
