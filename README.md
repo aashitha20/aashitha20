@@ -1,5 +1,9 @@
 <h1 align="center"> Hi, I'm Aashitha Prabhu B</br> 
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=490&height=44&lines=Turning%20curiosity%20into%20impact.;Build.%20Share.%20Repeat" alt="Typing headlines" />
+</p>
+
 <p align="center">I'm a Computer Science Engineering Student :)</p>
 <p align="center">I love to build new things and solve challenges!</p>
 <p align="center">
